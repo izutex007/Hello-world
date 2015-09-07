@@ -1,3 +1,7 @@
-# Hello-world
-my very first repo.
-....getting a grip on git hub
+/*Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”*/
+
+function isDivisible(numa,num)
+   {if (numa%num==0)
+   {
+       return true;
+   }
